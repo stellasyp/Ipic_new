@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="IPIC_new"
+  id="myeclipse.1390869230636"
+  context-root="/IPIC_new"
+  j2ee-spec="5.0"
+  archive="IPIC_new.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
